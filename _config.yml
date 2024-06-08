@@ -2,7 +2,7 @@ title: Jekyll URL Shortener
 description: ✂️🔗 This is a template repository for making URL Shorteners with Jekyll and GitHub Pages. Create short URLs that can be easily shared, tweeted, or emailed to friends.
 logo: /assets/img/logo.png
 show_downloads: true
-google_analytics:
+google_analytics: G-GY699B3CDN
 theme: jekyll-theme-minimal
 
 permalink: /:slug/
